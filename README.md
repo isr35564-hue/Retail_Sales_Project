@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements an end-to-end data engineering workflow for retail sales data. The objective was to transform raw retail transaction data into a clean analytical dataset and generate actionable business insights through KPI reporting and Power BI dashboards.
+This project implements an end-to-end data engineering workflow for retail sales data. The objective was to transform raw retail transaction data into a clean analytical dataset and generate  business insights through KPI reporting and Power BI dashboards.
 
 The solution includes data profiling, data cleaning, transformation, PII masking, KPI generation, and business intelligence reporting.
 
@@ -155,7 +155,7 @@ Power BI Dashboard
 
 ---
 
-## Implementation Note
+
 ## Implementation Note
 
 The solution was implemented locally using Python (Pandas) and Power BI, in accordance with the assessment guidelines which allowed local implementation as an alternative to Azure-based deployment.
